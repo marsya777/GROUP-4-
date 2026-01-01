@@ -22,3 +22,7 @@ METHODS USED :
 INTERFACE : 
 
 ![Login Page](images/loginpage.png)
+
+![Class Management](images/classmanagement.png)
+
+![Attendance Records](images/attendancerecording.png)
