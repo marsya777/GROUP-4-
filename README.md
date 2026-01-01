@@ -20,3 +20,5 @@ METHODS USED :
 - Pseudocodes
 
 INTERFACE : 
+
+![Login Page](images/loginpage.png)
