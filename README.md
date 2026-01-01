@@ -31,10 +31,21 @@ METHODS USED :
 INTERFACE : 
 
 ![Login Page](images/loginpage.png)
+
 Figure 1 : Login page to access the system.
 
 ![Class Management](images/classmanagement.png)
+
 Figure 2 : Example of course and class management.
 
 ![Attendance Records](images/attendancerecording.png)
+
 Figure 3 : Example of attendance recording through QR.
+
+![Attendance Tracking](images/attendancetracking.png)
+
+Figure 4 : Example of attendance tracking in the system.
+
+![Attendance Report](images/attendancereport.png)
+
+Figure 5: Example of attendance report in PDF file.
