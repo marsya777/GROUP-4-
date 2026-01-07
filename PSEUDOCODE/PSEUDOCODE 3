@@ -1,0 +1,9 @@
+START
+Lecturer logs in
+SELECT course and class
+SELECT attendance method
+    (Manual OR QR code OR Online)
+RECORD student attendance
+SAVE attendance data to database
+DISPLAY confirmation message
+END
