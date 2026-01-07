@@ -1,0 +1,19 @@
+START 
+Lecture/Admin logs in
+SELECT course and class management
+CHOOSE action (create or update)
+REPEAT
+    ENTER course/class details 
+    VALIDATE entered data
+
+    IF data is valid THEN 
+        SAVE data to database 
+        DISPLAY confirmation message
+        SET process_complete = TRUE
+   ELSE
+        DISPLAY error message
+        SET process_complete = FALSE
+  END IF
+
+UNTILL process_complete = TRUE
+END
