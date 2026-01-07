@@ -1,0 +1,17 @@
+START 
+DISPLAY 
+DO 
+    PROMPT user to username and password 
+    VALIDATE entered credentials
+
+    IF credentials are valid THEN
+        DETERMINE user role 
+        LOAD dashboard based on role 
+        SET login_success = TRUE 
+    ELSE
+        DISPLAY error message
+        SET login_success = FALSE
+    ENDIF
+
+WHILE login_success = FALSE
+END
