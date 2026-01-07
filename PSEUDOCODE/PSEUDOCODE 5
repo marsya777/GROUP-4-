@@ -1,0 +1,16 @@
+START
+
+Lecturer/Admin logs in
+SELECT generate report option
+CHOOSE report type and required data
+RETRIEVE attendance data from database
+GENERATE attendance report
+ASK user whether to export report
+
+IF user chooses YES THEN
+    EXPORT report as PDF or Excel
+ELSE
+    DISPLAY report on screen
+ENDIF
+
+END
