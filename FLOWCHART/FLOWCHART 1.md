@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart TD
   Start([Start]) --> A[Display Login Page]
   A --> B[/Enter Username and Password/]
@@ -11,4 +11,4 @@ flowchart TD
   D -- YES --> F[Determine User Role]
   F --> G[Load Role-Based Dashboard]
   G --> End([End])
-'''
+```
