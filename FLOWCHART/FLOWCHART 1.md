@@ -5,8 +5,8 @@ flowchart TD
     B --> C[Validate Credentials]
     C --> D{Credentials Valid?}
 
-    D -- NO --> E[Display Error Message]
-    E --> B
+    D -- NO ---> E[Display Error Message]
+    E ---> B
 
     D -- YES --> F[Determine User Role]
     F --> G[Load Role-Based Dashboard]
