@@ -4,7 +4,7 @@ CONTRIBUTORS :
 
 | TEAM MEMBER | MATRICS | ROLES |
 |-------------|-------|----------------|
-| MARSYA NATASHA BINTI MOHD ZAID | S78998 | Github Coordinator & Documentation and Final Report Compilation |
+| MARSYA NATASHA BINTI MOHD ZAID | S78998 | Github Coordinator & Documentation, Describing Functional Requirement and Final Report Compilation |
 | MUHAMMAD SYAHIR AFIQ BIN ROSLI | S79056 | Introduction & Purpose of the System |
 | MUHAMMAD ALIF NAUFAL BIN CHE MOKHTAR | S78921 | Designing flowcharts |
 | MUHAMMAD AMIN BIN MOHD REDUAN | S79087 | Writing pseudocodes |
@@ -28,7 +28,7 @@ METHODS USED :
 - Flowcharts
 - Pseudocodes
 
-INTERFACE : 
+INTERFACES : 
 
 ![Login Page](images/loginpage.png)
 
