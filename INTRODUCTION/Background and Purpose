@@ -1,1 +1,14 @@
+Introduction of the System
 
+Student attendance is one of the crucial parts in academic institutions. Lecturers and academic administrators rely on attendance records to monitor student participation, evaluate learning engagement, and ensure compliance with institutional requirements for coursework and examinations (Rashid, 2024). Attendance generally shows a reflection on a student's behavior, responsibility and commitment to their studies.
+Most universities are still depending on traditional manual attendance registration methods such as paper and sheets or name call, even though attendance is often seen as the most important part. Manual attendance records are vulnerable to human error, loss of documents, and inaccurate record-keeping. There is also limited control over dishonest practices, such as proxy attendance, where students record attendance for absent peers (Sidek et al., 2016).
+As student enrollment continues to grow and academic schedules become more structured, manual attendance management has proven to be increasingly inefficient. Previous research indicates that automated attendance systems can significantly improve record accuracy, reduce lecturers’ administrative burden, and enable attendance data to be stored, retrieved, and managed more systematically (Rashid, 2024; Bakhri et al., 2025). Recent advancements in biometric technologies, particularly facial recognition, have attracted attention as a potential solution to further streamline the attendance process while minimizing the need for manual verification (Haris & Paidi, 2023).
+	Going against these obstacles, this project offers the solution, a modern attendance management system that simplifies and modernises the registration, storing and managing student attendance records. It hopes to help lecturers in managing attendance smoothly within the academic environment.
+
+Purpose of the System
+
+The main purpose of this university attendance system is to provide a practical and automated solution that makes the process of monitoring student attendance while improving data accuracy simpler and more reliable. By reducing reliance on manual input, the system minimizes human error and crucially shortens the time needed to record the attendance during classes. It also helps to prevent attendance fraud by implementing controlled and verifiable attendance systems.
+
+	The system is designed to support student’s responsibility and academic awareness. Students can view their attendance records allowing them to always aware and checks on their participation in the class and to make any changes if their attendance drop below the needed attendance percentages.
+
+	The system provides structured reports and analysis that are used to identify and monitor class performances, and detect early warning signs of student’s disengagement for the lecturers. Lastly, overall academic management can be upgraded by providing accurate data and improving its accountability.
