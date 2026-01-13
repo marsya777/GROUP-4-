@@ -11,22 +11,57 @@ CONTRIBUTORS :
 
 PROJECT DESCRIPTION : 
 
-A web-based digital platform intended to monitor, schedule, and record how frequently students attend classes in a full-fledged university which allow lecturers and administrators to check student's attendance history, enter attendance digitally, and manage the courses, classes, and user accounts.
+# Student Attendance Management Platform
 
-This project is about resolving the problems that traditional attendance-tracking methods, such as paper and digital sheets are very tiring, error-prone, and difficult to maintain with. The platform provides advanced educational supervision and data presentation while improving correctness, productivity, and transparency with the automated attendance tracking.
+## 📌 Project Description
+This project is a web-based digital platform designed to monitor, plan, and record student attendance in a university environment.  
+It enables teachers and administrators to track attendance history, manage courses and classes, and handle user accounts efficiently.
 
-It is designed for operation among university students, administrators and lecturers. The administrators used to oversee scholastic frameworks and generate institution reports, while the lecturers are using these systems to record and evaluate the attendance data. Meanwhile, students use this system to update their attendance everyday.
+The platform aims to replace traditional attendance methods (paper-based or manual digital records) that are time-consuming, error-prone, and difficult to manage. By automating attendance tracking, the system improves accuracy, productivity, and transparency.
 
-MAIN FEATURES : 
-- User Authentication and Role Management
-- Course and Class Management
-- Attendance Recording
-- Attendance Viewing and Tracking
-- Attendance Reporting
+---
 
-METHODS USED : 
+## 🎯 Project Objectives
+- Automate student attendance tracking
+- Reduce errors caused by manual processes
+- Improve efficiency for teachers and administrators
+- Provide clear and accessible attendance data
+
+---
+
+## 👥 Target Users
+- **Students**: update and monitor their daily attendance
+- **Teachers**: record, manage, and analyze attendance data
+- **Administration**: oversee academic programs and generate institutional reports
+
+---
+
+## ⚙️ Key Features
+- User authentication and role management
+- Course and class management
+- Digital attendance recording
+- Attendance visualization and tracking
+- Attendance report generation
+
+---
+
+## 🧩 Methods Used
 - Flowcharts
-- Pseudocodes
+- Pseudocode
+
+---
+
+## 🤝 Contribution
+Contributions are welcome.  
+You can contribute by:
+- Improving documentation
+- Suggesting enhancements or fixes
+- Adding new features
+
+Please submit a **Pull Request** with a clear description of your changes.
+
+
+
 
 INTERFACES : 
 
@@ -49,3 +84,5 @@ Figure 4 : Example of attendance tracking in the system.
 ![Attendance Report](images/attendancereport.png)
 
 Figure 5: Example of attendance report in PDF file.
+
+
